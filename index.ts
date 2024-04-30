@@ -6,7 +6,21 @@
  * @since 2024-04-09
  */
 
+import { createPrompt } from 'bun-/**
+ * Class that defines airplane speed.
+ *
+ * @author Ava Venturino
+ * @version 1.0
+ * @since 2024-04-09
+ */
+
 import { createPrompt } from 'bun-promptx'
+
+function reverseString(str: string): string {
+  if (str === "") {
+    return str
+  } else {
+ava-venturino ↦ romptx'
 
 function reverseString(str: string): string {
   if (str === "") {
